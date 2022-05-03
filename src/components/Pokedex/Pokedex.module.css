@@ -1,0 +1,20 @@
+.Pokedex {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+}
+
+.exp {
+  text-align: center;
+  font-weight: 600;
+}
+
+.winner {
+  color: #4caf50;
+  margin-top: 20px;
+}
+
+.looser {
+  color: #e91e63;
+  margin-top: 20px;
+}
